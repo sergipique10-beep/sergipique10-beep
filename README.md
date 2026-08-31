@@ -16,14 +16,18 @@ Desarrollador **Fullstack** con foco en construir productos completos de princip
 
 Mi proyecto de referencia es **CS Finance**: una app que convierte el inventario de skins de un jugador de Counter-Strike 2 en una cartera de inversión, con precios en tiempo real, un score de liquidez propio, predicción de precios y un asistente conversacional con RAG.
 
-## Proyecto destacado
+## Proyectos destacados
 
 ### 🎮 [CS Finance](https://github.com/mstne03/CS-FINANCE-ionic)
 
-App Ionic/Angular + backend FastAPI que trata el inventario de CS2 como una cartera: valor en tiempo real, tendencias de mercado, liquidity score propio, predicción de precios (regresión con backtest) y un asistente con RAG sobre noticias del juego.
+App Ionic/Angular + backend FastAPI que trata el inventario de CS2 como una cartera: valor en tiempo real, tendencias de mercado, liquidity score propio, predicción de precios (regresión con backtest) y un asistente con RAG sobre noticias del juego. Proyecto en equipo, junto a [Marc Serra](https://github.com/mstne03).
 
 - **Frontend:** [CS-FINANCE-ionic](https://github.com/mstne03/CS-FINANCE-ionic) — Angular 20 (standalone, signals), Ionic 8, Capacitor
 - **Backend:** [LoginCsFinance](https://github.com/sergipique10-beep/LoginCsFinance) — FastAPI, Steam OpenID, Supabase, Gemini
+
+### 💼 [DevHub](https://github.com/sergipique10-beep/FinalProject)
+
+Plataforma tipo "LinkedIn + Fiverr para developers": perfiles profesionales, marketplace de servicios, proyectos con propuestas, portfolio, reviews y feed social. Full-stack: React (Vite) + Node.js/Express + MongoDB.
 
 ## Stack
 
