@@ -1,11 +1,11 @@
 <p align="center">
   <a href="https://github.com/sergipique10-beep">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=602&text=Hello!%20I'm%20Sergi" alt="Hello! I&#39;m Sergi" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2f81f7&fontSize=54&height=90&width=602&text=Hello!%20I'm%20Sergi" alt="Hello! I&#39;m Sergi" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=2f81f7&center=true&vCenter=true&width=900&height=44&lines=Full%20Stack%20Developer%20who%20loves%20AI;Turning%20coffee%20into%20code%2C%20and%20code%20into%20AI-powered%20products" alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=56d4dd&center=true&vCenter=true&width=900&height=44&lines=Full%20Stack%20Developer%20who%20loves%20AI;Turning%20coffee%20into%20code%2C%20and%20code%20into%20AI-powered%20products" alt="Typing headlines" />
 </p>
 
 ### 🚀 About Me
@@ -63,14 +63,14 @@ My flagship project is CS Finance: an app that turns a Counter-Strike 2 player's
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=sergipique10-beep&show_icons=true&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=sergipique10-beep&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=sergipique10-beep&show_icons=true&theme=tokyonight&title_color=2f81f7&icon_color=2f81f7&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=sergipique10-beep&layout=compact&theme=tokyonight&title_color=2f81f7&icon_color=2f81f7&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
 
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=sergipique10-beep&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+  <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=sergipique10-beep&bg_color=00000000&color=2f81f7&line=2f81f7&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
 </p>
 
 ### 💭 Dev Quote
@@ -81,3 +81,4 @@ My flagship project is CS Finance: an app that turns a Counter-Strike 2 player's
 
 ---
 <p align="center"><i>⭐️ From <a href="https://github.com/sergipique10-beep">sergipique10-beep</a></i></p>
+
